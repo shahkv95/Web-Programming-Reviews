@@ -58,7 +58,7 @@ Finally, click on the green "Create pull request" button to finish creating the 
 
 You should now see an open pull request.
 
-![Open Pull Request](https://f.cloud.github.com/assets/676185/316899/6a62a7c8-984b-11e2-92ee-182ef257b574.png)
+![Open Pull Request](images/opr.png)
 
 ### Using a Pull Request
 
