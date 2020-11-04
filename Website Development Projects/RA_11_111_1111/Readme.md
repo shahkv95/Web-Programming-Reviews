@@ -1,2 +1,2 @@
 This is for testing conflicts.
-3
+2
